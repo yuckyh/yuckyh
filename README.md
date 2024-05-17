@@ -31,9 +31,9 @@ I'm Yucky Hito from Batam, Indonesia currently located in Singapore
 
 ### Featured Projects
 
-![Restoview](https://github-readme-stats.vercel.app/api/pin/?username=yuckyh&repo=restoview)
+[![Restoview](https://github-readme-stats.vercel.app/api/pin/?username=yuckyh&repo=restoview)](https://github.com/yuckyh/restoview)
 
-![Clean Tool](https://github-readme-stats.vercel.app/api/pin/?username=yuckyh&repo=clean-tool-app)
+[![Clean Tool](https://github-readme-stats.vercel.app/api/pin/?username=yuckyh&repo=clean-tool-app)](https://github.com/yuckyh/clean-tool-app)
 
 ---
 
@@ -66,6 +66,8 @@ I'm Yucky Hito from Batam, Indonesia currently located in Singapore
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
 </div>
+
+###
 
 <div align="center">
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
@@ -103,6 +105,8 @@ I'm Yucky Hito from Batam, Indonesia currently located in Singapore
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
 </div>
 
+###
+
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -116,6 +120,8 @@ I'm Yucky Hito from Batam, Indonesia currently located in Singapore
   <img width="12" />
   <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge" height="40" alt="amazondynamodb logo"  />
 </div>
+
+###
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
