@@ -24,7 +24,7 @@
 I'm Yucky Hito from Batam, Indonesia currently located in Singapore
 
 - 🔭 I’m looking for a full-time job as a Software Engineer, Data Analyst, and Data Engineer in Singapore.
-- 📚 I'm currently learning Flutter and Rust.
+- 📚 I'm currently learning Lua.
 - ⚡ In my free time, I learn more about cloud technologies.
 
 ---
@@ -152,20 +152,3 @@ I'm Yucky Hito from Batam, Indonesia currently located in Singapore
 ![Snake Animation](https://raw.githubusercontent.com/yuckyh/yuckyh/output/snake.svg)
 
 ---
-
-### 🎵 Songs I Listen to
-
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=infini_time&count=10)](https://open.spotify.com/user/infini_time)
-
-<!--
-**yuckyh/yuckyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
